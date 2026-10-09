@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Figtree", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#logo{
+    margin-top: 60px;
+}
+h1{
+    font-size:60px;
+    font-weight:lighter;
+    color: hsl(0, 0%, 59%);
+
+}
+span{
+    font-weight: bold;
+    color:black
+}
+#para1{
+    margin-top: -30px;
+
+}
+input{
+    padding: 15px;
+    border-color: hsl(0, 0%, 59%);
+    border-radius: 50px;
+    width: 400px;
+    opacity: 0.3;
+    margin-right: 10spx;
+
+
+}
+.inputbutton{
+    
+    width: 700px;
+}
+button{
+    padding:20px;
+    border-radius: 50px;
+    width:250px;
+    background-color: hsl(223, 87%,63%);
+    color: white;
+}
+#illustration{
+    height: 425px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+.icons img{
+    height:32px;
+    width:32px;
+    padding: 10px;
+    fill :blue;
+    border:1px solid hsl(0, 4%, 80%);
+    border-radius: 100px;
+}
+p{
+    color: hsl(0, 0%, 59%);
+    
+   
+}
+
+
